@@ -1,9 +1,10 @@
-# AutoCAD-study-record
-《AutoCAD学习记录》
+# Electrical Engineering and Automation
+《电气工程及其自动化》
 ==============================
- 这是zpc学习AutoCAD的记录，包括快速入门指导，zpc使用心得，zpc项目记录和一些碎碎念。
+ 这是一份在设计院工作的电气工程的学习记录。先随便记着一些，有空再整理。
 
- - [快速入门指导](chapter_AutoCAD-quick-start-guidance/index.ipynb)
+ - [AutoCAD快速入门指导](chapter_AutoCAD-quick-start-guidance/index.ipynb)
+ - [建筑电气设计实战讲义](chapter_Building-Electrical-Design/index.ipynb)
  - [项目记录](chapter_Project-Record/index.ipynb)
  - [使用心得](chapter_Experience/index.ipynb)
  - [碎碎念](chapter_Thoughts/index.ipynb)
