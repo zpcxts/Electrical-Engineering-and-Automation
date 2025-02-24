@@ -5,6 +5,7 @@
 
  - [AutoCAD快速入门指导](chapter_AutoCAD-quick-start-guidance/index.ipynb)
  - [建筑电气设计实战讲义](chapter_Building-Electrical-Design/index.ipynb)
+ - [注册电气工程师备考](chapter_Registered-Electrical-Engineer/index.ipynb)
  - [项目记录](chapter_Project-Record/index.ipynb)
  - [使用心得](chapter_Experience/index.ipynb)
  - [碎碎念](chapter_Thoughts/index.ipynb)
